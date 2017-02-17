@@ -1,0 +1,2 @@
+wieso funktionier printf("%d", my_char) und gibt nicht muell aus?
+... generel
